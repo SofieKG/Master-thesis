@@ -10,3 +10,4 @@ Contents:
 2. Rscript_Data_Transformation contains the data preparation prior to the analysis.
 3. Rscript_OLS_Assumptions contains the OLS diagnostics.
 4. Rscript_Analysis contains the actual code used in order to answer the hypotheses.
+5. Rscript_Robustness_Tests contains the code used for running robustness tests.
