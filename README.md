@@ -1,6 +1,6 @@
 # Master-thesis
 
-Here you will find the R script for Sofie Kvalsund-Grødahl's master thesis: " ". 
+Here you will find the R script for Sofie Kvalsund-Grødahl's master thesis: "Explaining lobbying success in European climate action policies: A quantitative content analysis measuring the influence of interest groups in the context of the European Commission". 
 
 You can contact me at sofiekg@gmail.com with any questions.
 
