@@ -4,7 +4,7 @@ Here you will find the R script for Sofie Kvalsund-Grødahl's master thesis: " "
 
 You can contact me at sofiekg@gmail.com with any questions.
 
-Contents:
+Contents in this Github:
 
 1. Merged_excel_R is the Excel-file used as the basis for the data.
 2. Rscript_Data_Transformation contains the data preparation prior to the analysis.
